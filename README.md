@@ -124,6 +124,6 @@ Este proyecto es de uso libre bajo la licencia MIT.
 ✨ Autor
 
 Desarrollado por [Galicia Olvera Adrian (Giltlocket)]
-📧 Contacto: (opcional)
-💼 LinkedIn: (opcional)
-🌐 GitHub: (opcional)
+📧 Contacto: (adriangaliove123@gmail.com)
+💼 LinkedIn: 
+🌐 GitHub: (Gillocket1)
